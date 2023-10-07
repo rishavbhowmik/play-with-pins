@@ -1,5 +1,6 @@
 #include <iostream> // Include all needed libraries here
 #include <wiringPi.h>
+// Compile with `-lwiringPi`
 
 using namespace std; // No need to keep using “std”
 
